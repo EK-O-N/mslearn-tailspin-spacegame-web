@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/Erisakon01/test1/_apis/build/status%2FEK-O-N.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/Erisakon01/test1/_build/latest?definitionId=4&branchName=main)
+[Build Status](https://dev.azure.com/Erisakon01/test1/_apis/build/status%2FEK-O-N.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/Erisakon01/test1/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
@@ -64,5 +64,6 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
 
 
